@@ -30,7 +30,8 @@ try {
 			bw.write('D');
 			bw.write("inesh");
 			bw.newLine();
-			bw.write("DInesh", 1, 4);
+			
+			
 			
 }catch (Exception e) {
 	// TODO: handle exception
