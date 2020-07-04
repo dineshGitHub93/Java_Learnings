@@ -16,6 +16,7 @@ public class ArrayListDemo1 {
 			list.add("Java");
 			list.add("Python");
 			list.add("Java Script");
+			list.add("NodeJS");
 			
 			// Traversing list through Iterator
 			Iterator itr = list.iterator();
