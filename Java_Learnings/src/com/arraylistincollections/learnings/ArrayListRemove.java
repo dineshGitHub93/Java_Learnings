@@ -20,7 +20,7 @@ public class ArrayListRemove {
 		alist1.add(null);
 		alist1.add(30);
 		alist1.add(30);
-		alist1.add(50);
+		alist1.add(20);
 		
 		System.out.println(alist);
 		System.out.println(alist1);
