@@ -12,6 +12,7 @@ public class ArrayListAnonymous {
 				add("One");
 				add("two");
 				add("Three");
+			        add("Four")
 			
 		}};
 System.out.println(obj);
