@@ -8,7 +8,7 @@ public class ArrayListncopies {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		ArrayList<Integer> list = new ArrayList<Integer>(Collections.nCopies(5, 2));
+		ArrayList<Integer> list = new ArrayList<Integer>(Collections.nCopies(5, 5));
 		
 		System.out.println(list);
 
