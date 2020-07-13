@@ -21,7 +21,7 @@ public class ArrayListSwap {
 			System.out.println(temp);
 		}
 		System.out.println("\n");
-		Collections.swap(alist, 1, 4);
+		Collections.swap(alist, 1, 5);
 		
 		for(String temp:alist) {
 			System.out.println(temp);
