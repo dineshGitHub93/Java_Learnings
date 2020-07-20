@@ -7,6 +7,10 @@ public class FirstArrayList {
 		WrittenArrayList<String> demo = new WrittenArrayList<String>();
 		
 		System.out.println(demo);
+		
+		demo.ensureCapacity(8);
+		
+		System.out.println();
 	}
 
 }
