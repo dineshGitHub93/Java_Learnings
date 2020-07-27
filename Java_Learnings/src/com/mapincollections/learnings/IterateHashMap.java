@@ -14,6 +14,9 @@ public class IterateHashMap {
 		me.put(2, "Two");
 		me.put(3, "Three");
 		me.put(4, "Four");
+		me.put(4, null);
+		me.put(4, null);
+		me.put(3, "3");
 		
 		for(Map.Entry element : me.entrySet()) {
 			
